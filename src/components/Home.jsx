@@ -1,7 +1,14 @@
 import React from "react";
+import Footer from "./sections/Footer/Footer";
+import SubscribeNow from "./sections/SubscribeNow";
 
 const Home = () => {
-  return <div>Home</div>;
+  return (
+    <>
+      <SubscribeNow />
+      <Footer />
+    </>
+  );
 };
 
 export default Home;

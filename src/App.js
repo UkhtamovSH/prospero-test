@@ -13,7 +13,6 @@ const App = () => {
           <Routess />
         </Router>
       </Main>
-      {/* {loading && <Loader />} */}
     </>
   );
 };

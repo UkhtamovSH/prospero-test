@@ -1,1 +1,23 @@
-div {}
+@font-face {
+  font-family: "Lato-Heavy";
+  src: url("./assets/fonts/Lato-Heavy.ttf") format("truetype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lato-Medium";
+  src: url("./assets/fonts/lato-medium.ttf") format("truetype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lato-Regular";
+  src: url("./assets/fonts/Lato-Regular.ttf") format("truetype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "RobotoSlab-Bold";
+  src: url("./assets/fonts/RobotoSlab-Bold.ttf") format("truetype");
+  font-style: normal;
+}
